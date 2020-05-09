@@ -5,6 +5,8 @@ from scipy import signal
 from scipy.signal import find_peaks
 import scipy.io as spio
 
+#code update 08/05/2020
+
 # Neural network class definition, credit: Dr B. Metcalfe
 class n:
     # Init the network, this gets run whenever we make a new instance of this class
